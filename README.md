@@ -18,4 +18,7 @@
   - Teléfono: 829-941-8231
 - 😄 **Pronombres**: Ander o Anderson
 - ⚡ **Dato curioso**: La informática me comenzó a llamar la atención a los 7 años.
+<br></br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=elegois112y&title=Commits,Experience,Followers,PullRequest&theme=monokai&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=elegois112y&theme=monokai&border_radius=1&card_width=440&background=EB545400)](https://git.io/streak-stats)
